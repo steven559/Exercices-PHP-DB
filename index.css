@@ -1,0 +1,47 @@
+
+#premier{
+    border:solid black 2px;
+    background-color: #888888;
+    padding-bottom: 5%;
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right:10%;
+
+}
+h1{
+    text-align: center;
+    color:lightsalmon;
+
+}
+body{
+    color:whitesmoke;
+    font-weight: bold;
+}
+#dexieme{
+    border:solid black 2px;
+    background-color: #888888;
+    padding-bottom: 3%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right:10%;
+}
+#troisieme{
+    border:solid black 2px;
+    background-color: #888888;
+    padding-bottom: 3%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+form{
+    text-align: center;
+}
+#quatre{
+    margin-bottom: 15%;
+}
+#id1,#id2{
+    margin-bottom: 10%;
+
+
+}
